@@ -1,6 +1,6 @@
-## Hi there 👋
+
 <p align="center">
-  <img src="https://tenor.com/en-GB/view/yandhi-gif-5168212933631417187">
+  <img src="https://github.com/yzs-dev/yzs-dev/code.gif">
 </p>
 
 <p align="center">
