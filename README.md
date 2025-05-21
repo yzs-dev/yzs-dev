@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/yzs-dev/yzs-dev/code.gif">
+  <img src="code.gif">
 </p>
 
 <p align="center">
